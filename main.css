@@ -1,0 +1,73 @@
+.mypic{
+  border-radius: 50%;
+  width: 180px;
+  height:  180px;
+  border-width: : 5px;
+  border-color: #5c5c5c;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 10%;
+  margin-left: 43%;
+
+}
+#particles-js {
+  background-color: #b61924;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+}
+
+#overlay {
+  position: relative;
+  padding: 50px;
+}
+
+.details{
+  margin-left: 38%;
+
+
+}
+.details2{
+  margin-left: 33%;
+
+
+}
+
+.links{
+  margin-left: 30%;
+  padding-top: 20px;
+      margin-right: 12px;
+    padding-left: 0;
+    display: inline;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+}
+p.customfont {
+    font-family: 'Source Code Pro';
+    font-size: 40px
+}
+
+p.small{
+  font-family: 'monospace';
+    font-size: 14px;
+    color: #1b1313;
+    padding-left: 28%;
+
+}
+p.desc{
+  font-family: 'Source Code Pro';
+    font-size: 20px;
+    padding-top: 15px;
+
+
+
+}
+p
+{
+margin: 0;
+padding: 0;
+}
