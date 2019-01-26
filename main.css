@@ -9,6 +9,21 @@
   margin-left: 540px;
 
 }
+
+@media (max-width: 767px) and (min-width: 320px){
+.mypic{
+            margin-left: auto;
+            margin-right: auto;
+            width: 70%;
+}
+
+.details{
+            margin-left: auto;
+            margin-right: auto;
+            width: 70%;
+}
+}
+
 #particles-js {
   background-color: #b61924;
   position: fixed;
